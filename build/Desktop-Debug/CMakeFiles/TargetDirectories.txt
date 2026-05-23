@@ -1,5 +1,0 @@
-/home/yetri/Everything-Code/C++-C/elsai/build/Desktop-Debug/CMakeFiles/elsai.dir
-/home/yetri/Everything-Code/C++-C/elsai/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/yetri/Everything-Code/C++-C/elsai/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/yetri/Everything-Code/C++-C/elsai/build/Desktop-Debug/CMakeFiles/elsai_autogen_timestamp_deps.dir
-/home/yetri/Everything-Code/C++-C/elsai/build/Desktop-Debug/CMakeFiles/elsai_autogen.dir
