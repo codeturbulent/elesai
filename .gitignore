@@ -1,0 +1,23 @@
+# C++ objects and libs
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# Qt Creator user files
+*.pro.user*
+*.CMakeUser.json
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.moc
+Makefile*
+.qmake.stash
+
+# Build directories
+build-*/
+
