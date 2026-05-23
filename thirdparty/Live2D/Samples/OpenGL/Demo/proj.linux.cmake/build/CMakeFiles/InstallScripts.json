@@ -1,0 +1,24 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/glew/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/glfw/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/glfw/src/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Effect/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Id/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Math/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Model/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Motion/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Physics/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Rendering/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Rendering/OpenGL/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Type/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/Framework/src/Utils/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/src/Common/cmake_install.cmake",
+		"/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/Demo/proj.linux.cmake/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

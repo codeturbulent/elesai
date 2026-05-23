@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libGLEW.a "CMakeFiles/glew_s.dir/home/yetri/Downloads/CubismSdkForNative-5-r.5/Samples/OpenGL/thirdParty/glew/src/glew.c.o"
+/usr/bin/ranlib ../lib/libGLEW.a
